@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+div{
+    margin-left: 300px;
+}
+h1{
+    text-align: center;
+    font-size: 70px ;
+}
+a{
+font-size: 50px;
+margin-right: 100px;
+}
